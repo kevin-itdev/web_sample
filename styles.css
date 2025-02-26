@@ -138,12 +138,12 @@ footer {
   font-size: 1.1rem;
 }
 .pFooter { font-size: 1rem; }
-/* .cell { display: flex; }
+.cell { display: flex; }
 .cell img {
   align-items: center;
   max-width: 7.813rem;
   max-height: 7.813rem;
-}  */
+}  
 .flag-img {
   width: 2.5rem;
   height: auto;
