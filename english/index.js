@@ -36,8 +36,7 @@ var table1 = document.getElementById("myTable1");
 
 for (var i = 0; i < 3; i++) {
   var row = table1.insertRow();
-  var cell = row.insertCell();
-  cell.innerHTML = `
+  row.innerHTML = `
       <div class="idTest2">
        
 
