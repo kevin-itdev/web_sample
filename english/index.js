@@ -38,7 +38,7 @@ for (var i = 0; i < 3; i++) {
   var row = table1.insertRow();
   var cell = row.insertCell();
   cell.innerHTML = `
-      <div class="col">
+      <div class="idTest2">
        
 
           <div style="margin-left: 0.625rem; margin-right: 1.875rem;">
