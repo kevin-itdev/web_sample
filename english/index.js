@@ -39,7 +39,7 @@ for (var i = 0; i < 3; i++) {
   var cell = row.insertCell();
   cell.innerHTML = `
       <div class="col">
-        <div class="cell">
+       
 
           <div style="margin-left: 0.625rem; margin-right: 1.875rem;">
           	<p class="pText" style="text-align: left;"><strong>${dates[i]}</strong></p>      
@@ -52,7 +52,7 @@ for (var i = 0; i < 3; i++) {
           
          </div>
 
-       </div>
+
      </div>
     `;
 }
