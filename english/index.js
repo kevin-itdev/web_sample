@@ -8,7 +8,7 @@ var topic = [
 
 
 var description = [
-"Man experienced a frightening incident on an Asiana Airlines flight when his seatmate opened the emergency door, leading to a series of terrifying moments.",
+"Man",
 "Japan takes precautions as it faces a potential satellite launch by North Korea, heightening security concerns.\nsource: japantimes.co.jp",
 "Tragic loss of cheetah cubs highlights challenges in reintroduction efforts.\nsource: bbc.com",
 "Uncover the captivating charm and hidden treasures of Quito, Ecuador's overlooked capital, where history, culture, and culinary delights await exploration.\nsource: cnn.com",
