@@ -23,6 +23,13 @@ var dates = [
 "21st May",
 ];
 
+ 
+var table0 = document.getElementById("idTest");
+var row0 = table0.insertRow();
+row0.innerHTML = `
+<div class="idTest2">
+  <p class="pText" style="text-align: left;">Hello World!</p>   
+</div>`;
 
 
 var table1 = document.getElementById("myTable1");
