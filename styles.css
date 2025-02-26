@@ -179,8 +179,8 @@ footer {
 
 @media screen and (max-width: 900px) {
 
-  .dropdown-menu { padding-top: 0 rem; }
-  .dropdown-content-1 { padding-top: 0 rem; }
+  .dropdown-menu { padding-top: 0 rem; margin-top: 0rem; }
+  .dropdown-content-1 { padding-top: 0 rem; margin-top: 0rem; }
   .pTitle {
     margin: 0 auto;
     font-size: 1.8rem;
