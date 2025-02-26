@@ -68,7 +68,7 @@ for (var i = 3; i < 5; i++) {
 
           <div style="margin-left: 0.625rem; margin-right: 1.875rem;">
           	<p class="pText" style="text-align: left;"><strong>${dates[i]}</strong></p>      
-            <img src=".\\english/image/${topic[i]}.png" alt="${topic[i]}" class = "topicImg">                       
+            <img src=".\\english/image/${topic[i]}.png" alt="${topic[i]}" class = "topic-img">                       
           </div>
          
           <div>  
