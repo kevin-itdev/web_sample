@@ -156,6 +156,10 @@ footer {
   width: 18rem;
   height: auto;
 }
+.topicImg {
+  width: 5rem;
+  height: auto;
+}
 .card-container {
   padding: 0.625rem 1.25rem; 
   border-radius: 0.25rem;
