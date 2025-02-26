@@ -183,7 +183,8 @@ footer {
   .dropdown-content-1 { padding-top: 0 rem; margin-top: 0rem; }
   .flag-img  { padding-top: 0 rem; margin-top: 0rem; }
   .pTitle {
-  padding-top: 1 rem;
+  padding-top: 2rem;
+     margin-top: 2rem; 
     font-size: 1.8rem;
   }
   .left-container, .right-container { display: none; }
