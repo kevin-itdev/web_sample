@@ -178,10 +178,7 @@ footer {
 
 
 @media screen and (max-width: 900px) {
-  .pTitle {
-    margin: 0 auto;
-    font-size: 2.5rem;
-  }
+
   .left-container,
   .right-container {
     display: none;
