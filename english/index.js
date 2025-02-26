@@ -43,16 +43,13 @@ for (var i = 0; i < 3; i++) {
 
           <div style="margin-left: 0.625rem; margin-right: 1.875rem;">
           	<p class="pText" style="text-align: left;"><strong>${dates[i]}</strong></p>      
-            // <img src=".\\english/image/${topic[i]}.png" alt="${topic[i]}">                       
+                                 
           </div>
          
           <div>  
             <p class="pText" style="text-align: left;"><strong><u>${topic[i]}</u></strong></p>                 
             <p class="pText" style="text-align: left;">${description[i]}</p>
-            // <p class="pText" style="text-align: left; margin-top: 1.563rem;">
-            //   Download <a href=".\\english/pdf/${topic[i]}.pdf" target="_blank">pdf</a> + 
-            //   <a href=".\\english/audio/${topic[i]}.mp3" target="_blank">audio</a>    
-            // </p>           
+          
          </div>
 
        </div>
